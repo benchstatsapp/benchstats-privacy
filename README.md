@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>BenchStats Privacy Policy</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-      max-width: 700px;
-      margin: 40px auto;
-      padding: 0 20px;
-      line-height: 1.6;
-      color: #111;
-    }
-    h1 {
-      font-size: 28px;
-    }
-  </style>
-</head>
-<body>
+
 
 <h1>Privacy Policy</h1>
 
